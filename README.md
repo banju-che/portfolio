@@ -53,19 +53,19 @@ Copy code
 ## 📸 Screenshots
 
 ### 🔹 Hero Section
-![Hero Screenshot](./Project-images/screenshot/homepage.png)
+![Homepage](screenshots/screenshot/homepage.png)
 
 ### 🔹 About Section
-![About Screenshot](./Project-images/screenshot/about.png)
+![About Screenshot](screenshots/screenshot/about.png)
 
 ### 🔹 Skills Section
-![Skills Screenshot](./Project-images/screenshot/skills.png)
+![Skills Screenshot](screenshots/screenshot/skills.png)
 
 ### 🔹 Full Page View
-![projects](./Project-images/screenshot/projects.png)
+![projects](screenshots/screenshot/projects.png)
 
 ### 🔹 Full Page View
-![contacts](./Project-images/screenshot/contacts.png)
+![contacts](screenshots/screenshot/contacts.png)
 
 ---
 
