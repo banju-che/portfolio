@@ -65,7 +65,10 @@ Copy code
 ![projects](screenshots/screenshot/projects.png)
 
 ### 🔹 Full Page View
-![contacts](screenshots/screenshot/contacts.png)
+![contacts](screenshots/screenshot/contact.png)
+
+
+
 
 ---
 
